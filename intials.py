@@ -1,8 +1,4 @@
 #This is a program to pull the initials from a name typed in all lower case
-#Je'Vaughn Black
-#IPT100-02
-#Excercise 03
-#program.py
 
 name = input("Enter your full name: ")
 #The .split method allowed me to seperate each part of the name into a list
