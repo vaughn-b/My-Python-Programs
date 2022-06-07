@@ -1,8 +1,4 @@
 # This is a program to determine age brackets
-# Je'Vaughn Black
-# IPT100-03WA
-# Exercise 06a
-# ageclass.py
 
 print("Age Classifcation Program")
 print("-" * 45)
