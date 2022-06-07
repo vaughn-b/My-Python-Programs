@@ -1,9 +1,3 @@
-# Name:             Instructor
-# Course/Section:   ITP100-0? (W or H)
-# Assignment:       Exercise: 07
-# Program:          Dice02xx.py
-#--------------------------------------------------------------
-
 import random
 
 def get_bet(bank):
