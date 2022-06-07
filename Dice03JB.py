@@ -1,9 +1,4 @@
 # This is a program to simulate betting against rolled dice.
-# Je'Vaughn Black
-# ITP100-03WA
-# Exercise 09
-# dice03jb.py
-# USED INSTRUCTOR SOLUTION
 
 import random
 
