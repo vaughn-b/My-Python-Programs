@@ -1,8 +1,4 @@
 # This is a dice guessing game
-# Je'Vaughn Black
-# ITP100-03WA
-# Exercise 06B
-# dice01jb.py
 
 
 import random
